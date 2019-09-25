@@ -1,5 +1,5 @@
 # django-models3-cw_b
-
+#### You have made the model correctly and added it to your database but did not set up your routes. Please refer to the comments inside .urls files. 1/5 Score:1/5
 ### Exercise 1
 Create a Book model with name, pageNumber, genre, and publishDate attributes. Create 2 entries using 2 different methods (admin site and class construtor using an endpoint).
 

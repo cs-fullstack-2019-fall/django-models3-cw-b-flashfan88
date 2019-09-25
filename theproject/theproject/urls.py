@@ -18,6 +18,6 @@ from django.urls import path
 from django.urls import path
 
 
-urlpatterns = [
+urlpatterns = [   # you need to import include here and include access to thisapp
     path('admin/', admin.site.urls),
 ]
